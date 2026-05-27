@@ -1,0 +1,8 @@
+# Deny all files by default
+*
+
+# Allow only these files
+!.gitignore
+!README.md
+!db.json
+!routes.json
