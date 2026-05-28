@@ -1,4 +1,1 @@
-{
-  "/v1/goods-code-mappings": "/goods-code-mappings",
-  "/v1/customers/:customerId/mws-usages": "/mws-usages?customerId=:customerId"
-}
+{}
