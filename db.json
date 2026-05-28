@@ -1,4 +1,85 @@
 {
+  "goods-code-mappings": [
+    {
+      "id": 1,
+      "goods": [
+        {
+          "goodsCode": "001",
+          "services": [
+            {
+              "serviceTypeId": "10",
+              "serviceTypeName": "標準機能",
+              "serviceId": "1001",
+              "serviceName": "サービスA 標準機能",
+              "setSaleType": 0,
+              "setSaleName": "一括販売",
+              "isDeleted": false
+            }
+          ]
+        },
+        {
+          "goodsCode": "002",
+          "services": [
+            {
+              "serviceTypeId": "10",
+              "serviceTypeName": "標準機能",
+              "serviceId": "1002",
+              "serviceName": "サービスB 標準機能",
+              "setSaleType": 0,
+              "setSaleName": "一括販売",
+              "isDeleted": false
+            },
+            {
+              "serviceTypeId": "20",
+              "serviceTypeName": "オプション機能",
+              "serviceId": "1003",
+              "serviceName": "サービスB オプション機能",
+              "setSaleType": 0,
+              "setSaleName": "一括販売",
+              "isDeleted": false
+            }
+          ]
+        },
+        {
+          "goodsCode": "003",
+          "services": [
+            {
+              "serviceTypeId": "10",
+              "serviceTypeName": "標準機能",
+              "serviceId": "1004",
+              "serviceName": "サービスC 標準機能",
+              "setSaleType": 0,
+              "setSaleName": "一括販売",
+              "isDeleted": false
+            }
+          ]
+        },
+        {
+          "goodsCode": "SET001",
+          "services": [
+            {
+              "serviceTypeId": "10",
+              "serviceTypeName": "標準機能",
+              "serviceId": "1001",
+              "serviceName": "サービスA 標準機能",
+              "setSaleType": 1,
+              "setSaleName": "セット販売",
+              "isDeleted": false
+            },
+            {
+              "serviceTypeId": "10",
+              "serviceTypeName": "標準機能",
+              "serviceId": "1004",
+              "serviceName": "サービスC 標準機能",
+              "setSaleType": 1,
+              "setSaleName": "セット販売",
+              "isDeleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "mws-usages": [
     {
       "id": 1,
