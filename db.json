@@ -1,5 +1,5 @@
 {
-  "v1/goods-code-mappings": [
+  "goods-code-mappings": [
     {
       "id": 1,
       "goods": [
@@ -80,9 +80,10 @@
       ]
     }
   ],
-  "v1/customers/12345/mws-usages": [
+  "mws-usages": [
     {
       "id": 1,
+      "customerId": "12345",
       "applyType": "VP-Type",
       "services": [
         {
