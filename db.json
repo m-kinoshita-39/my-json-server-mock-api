@@ -172,5 +172,29 @@
         }
       ]
     }
+  ],
+  "customers-contracts": [
+    {
+      "id": 1,
+      "goodsCode": "1001",
+      "customers": [
+        {
+          "customerId": "99999991",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-10-31"
+        },
+        {
+          "customerId": "99999992",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-05-31"
+        },
+        {
+          "customerId": "99999999",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-10-31"
+        }
+      ],
+      "totalCount": 3
+    }
   ]
 }

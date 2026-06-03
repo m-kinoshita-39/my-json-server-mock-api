@@ -1,3 +1,4 @@
 {
-  "/customers/:customerId/mws-usages": "/mws-usages?customerId=:customerId"
+  "/customers/:customerId/mws-usages": "/mws-usages?customerId=:customerId",
+  "/customers/contracts?goodsCode=:goodsCode": "/customers-contracts?goodsCode=:goodsCode"
 }
