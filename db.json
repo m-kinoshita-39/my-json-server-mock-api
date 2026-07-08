@@ -135,5 +135,51 @@
         { "status": "inactive", "goodsCode": "IT13" }
       ]
     }
+  ],
+  "customers-contracts": [
+    {
+      "id": 1,
+      "goodsCodes": "1001",
+      "customers": [
+        {
+          "customerId": "99999991",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-08-31"
+        },
+        {
+          "customerId": "99999992",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-05-31"
+        },
+        {
+          "customerId": "99999999",
+          "goodsCode": "1001",
+          "contractEndDate": "2026-10-31"
+        }
+      ],
+      "totalCount": 3
+    },
+    {
+      "id": 2,
+      "goodsCodes": "1002,1003",
+      "customers": [
+        {
+          "customerId": "99999991",
+          "goodsCode": "1002",
+          "contractEndDate": "2026-08-31"
+        },
+        {
+          "customerId": "99999992",
+          "goodsCode": "1003",
+          "contractEndDate": "2026-05-31"
+        },
+        {
+          "customerId": "99999999",
+          "goodsCode": "1002",
+          "contractEndDate": "2026-10-31"
+        }
+      ],
+      "totalCount": 2
+    }
   ]
 }
