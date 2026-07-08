@@ -134,6 +134,14 @@
         { "status": "cancel_pending", "goodsCode": "IT13" },
         { "status": "inactive", "goodsCode": "IT13" }
       ]
+    },
+    {
+      "id": 7,
+      "customerId": "900010",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "suspended", "goodsCode": "IT17" }
+      ]
     }
   ],
   "customers-contracts": [
