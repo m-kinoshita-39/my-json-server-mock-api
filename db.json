@@ -83,93 +83,56 @@
   "mws-usages": [
     {
       "id": 1,
-      "customerId": "12345",
+      "customerId": "900001",
       "applyType": "VP-Type",
       "services": [
-        {
-          "status": "active",
-          "goodsCode": "001",
-          "contractName": "サービスプランA",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1001,
-          "serviceName": "サービスA 標準機能",
-          "firstContractDate": "2025-01-01",
-          "contractEndDate": "2027-03-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": true,
-          "createdAt": "2025-01-01T00:00:00Z",
-          "updatedAt": "2026-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
-        },
-        {
-          "status": "apply_pending",
-          "goodsCode": "003",
-          "contractName": "サービスプランC",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1004,
-          "serviceName": "サービスC 標準機能",
-          "firstContractDate": "2026-06-01",
-          "contractEndDate": "2027-05-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2026-05-10T00:00:00Z",
-          "updatedAt": "2026-05-10T00:00:00Z",
-          "createdBy": "user-001",
-          "updatedBy": "user-001"
-        },
-        {
-          "status": "cancel_pending",
-          "goodsCode": "002",
-          "contractName": "サービスプランB",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1002,
-          "serviceName": "サービスB 標準機能",
-          "firstContractDate": "2024-04-01",
-          "contractEndDate": "2026-06-30",
-          "effectiveEndDate": null,
-          "cancellationDate": "2026-04-01",
-          "cancellationProcessedAt": "2026-04-01T10:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2024-04-01T00:00:00Z",
-          "updatedAt": "2026-04-01T10:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-001"
-        },
-        {
-          "status": "inactive",
-          "goodsCode": "002",
-          "contractName": "サービスプランB",
-          "serviceTypeId": 20,
-          "serviceTypeName": "オプション機能",
-          "serviceId": 1003,
-          "serviceName": "サービスB オプション機能",
-          "firstContractDate": "2024-04-01",
-          "contractEndDate": "2025-03-31",
-          "effectiveEndDate": "2025-03-31",
-          "cancellationDate": "2025-02-01",
-          "cancellationProcessedAt": "2025-02-01T00:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2024-04-01T00:00:00Z",
-          "updatedAt": "2025-02-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-002"
-        }
+        { "status": "active", "goodsCode": "IT02" },
+        { "status": "active", "goodsCode": "IT03" },
+        { "status": "cancel_pending", "goodsCode": "IT04" }
+      ]
+    },
+    {
+      "id": 2,
+      "customerId": "900002",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "apply_pending", "goodsCode": "IT05" },
+        { "status": "cancel_pending", "goodsCode": "IT06" }
+      ]
+    },
+    {
+      "id": 3,
+      "customerId": "900003",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "apply_pending", "goodsCode": "IT07" },
+        { "status": "expiring", "goodsCode": "IT08" },
+        { "status": "inactive", "goodsCode": "IT09" }
+      ]
+    },
+    {
+      "id": 4,
+      "customerId": "900004",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "expiring", "goodsCode": "IT10" }
+      ]
+    },
+    {
+      "id": 5,
+      "customerId": "900005",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "active", "goodsCode": "IT12" }
+      ]
+    },
+    {
+      "id": 6,
+      "customerId": "900006",
+      "applyType": "VP-Type",
+      "services": [
+        { "status": "cancel_pending", "goodsCode": "IT13" },
+        { "status": "inactive", "goodsCode": "IT13" }
       ]
     }
   ]
