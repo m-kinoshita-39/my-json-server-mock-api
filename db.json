@@ -188,6 +188,43 @@
         }
       ],
       "totalCount": 3
+    },
+    {
+      "id": 3,
+      "goodsCodes": "ES01,ES02,ES03",
+      "customers": [
+        {
+          "customerId": "900001",
+          "goodsCode": "ES01",
+          "contractEndDate": "2026-07-31"
+        },
+        {
+          "customerId": "900002",
+          "goodsCode": "ES02",
+          "contractEndDate": "2026-07-31"
+        },
+        {
+          "customerId": "900003",
+          "goodsCode": "ES01",
+          "contractEndDate": "2026-08-31"
+        },
+        {
+          "customerId": "900004",
+          "goodsCode": "ES03",
+          "contractEndDate": "2026-08-31"
+        },
+        {
+          "customerId": "900005",
+          "goodsCode": "ES01",
+          "contractEndDate": "2026-09-30"
+        },
+        {
+          "customerId": "900006",
+          "goodsCode": "ES02",
+          "contractEndDate": "2026-08-31"
+        }
+      ],
+      "totalCount": 6
     }
   ]
 }
