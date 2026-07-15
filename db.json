@@ -147,47 +147,47 @@
   "customers-contracts": [
     {
       "id": 1,
-      "goodsCodes": "1001",
+      "goodsCodes": "ES01",
       "customers": [
         {
-          "customerId": "99999991",
-          "goodsCode": "1001",
+          "customerId": "900001",
+          "goodsCode": "ES01",
+          "contractEndDate": "2026-07-31"
+        },
+        {
+          "customerId": "900003",
+          "goodsCode": "ES01",
           "contractEndDate": "2026-08-31"
         },
         {
-          "customerId": "99999992",
-          "goodsCode": "1001",
-          "contractEndDate": "2026-05-31"
-        },
-        {
-          "customerId": "99999999",
-          "goodsCode": "1001",
-          "contractEndDate": "2026-10-31"
+          "customerId": "900005",
+          "goodsCode": "ES01",
+          "contractEndDate": "2026-09-31"
         }
       ],
       "totalCount": 3
     },
     {
       "id": 2,
-      "goodsCodes": "1002,1003",
+      "goodsCodes": "ES02,ES03",
       "customers": [
         {
-          "customerId": "99999991",
-          "goodsCode": "1002",
+          "customerId": "900002",
+          "goodsCode": "ES02",
+          "contractEndDate": "2026-07-31"
+        },
+        {
+          "customerId": "900004",
+          "goodsCode": "ES03",
           "contractEndDate": "2026-08-31"
         },
         {
-          "customerId": "99999992",
-          "goodsCode": "1003",
-          "contractEndDate": "2026-05-31"
-        },
-        {
-          "customerId": "99999999",
-          "goodsCode": "1002",
-          "contractEndDate": "2026-10-31"
+          "customerId": "900006",
+          "goodsCode": "ES02",
+          "contractEndDate": "2026-08-31"
         }
       ],
-      "totalCount": 2
+      "totalCount": 3
     }
   ]
 }
