@@ -89,65 +89,17 @@
         {
           "status": "active",
           "goodsCode": "IT02",
-          "contractName": "サービスプラン IT02",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1001,
-          "serviceName": "サービス IT02 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2027-03-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": true,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2027-03-31"
         },
         {
           "status": "active",
           "goodsCode": "IT03",
-          "contractName": "サービスプラン IT03",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1002,
-          "serviceName": "サービス IT03 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2027-03-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": true,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2027-03-31"
         },
         {
           "status": "cancel_pending",
           "goodsCode": "IT04",
-          "contractName": "サービスプラン IT04",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1003,
-          "serviceName": "サービス IT04 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-08-31",
-          "effectiveEndDate": null,
-          "cancellationDate": "2026-07-01",
-          "cancellationProcessedAt": "2026-07-01T10:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2026-07-01T10:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-001"
+          "contractEndDate": "2026-08-31"
         }
       ]
     },
@@ -159,44 +111,12 @@
         {
           "status": "apply_pending",
           "goodsCode": "IT05",
-          "contractName": "サービスプラン IT05",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1004,
-          "serviceName": "サービス IT05 標準機能",
-          "firstContractDate": "2026-08-01",
-          "contractEndDate": "2027-07-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2026-07-10T00:00:00Z",
-          "updatedAt": "2026-07-10T00:00:00Z",
-          "createdBy": "user-001",
-          "updatedBy": "user-001"
+          "contractEndDate": "2027-07-31"
         },
         {
           "status": "cancel_pending",
           "goodsCode": "IT06",
-          "contractName": "サービスプラン IT06",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1005,
-          "serviceName": "サービス IT06 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-08-31",
-          "effectiveEndDate": null,
-          "cancellationDate": "2026-07-01",
-          "cancellationProcessedAt": "2026-07-01T10:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2026-07-01T10:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-001"
+          "contractEndDate": "2026-08-31"
         }
       ]
     },
@@ -208,65 +128,17 @@
         {
           "status": "apply_pending",
           "goodsCode": "IT07",
-          "contractName": "サービスプラン IT07",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1006,
-          "serviceName": "サービス IT07 標準機能",
-          "firstContractDate": "2026-08-01",
-          "contractEndDate": "2027-07-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2026-07-10T00:00:00Z",
-          "updatedAt": "2026-07-10T00:00:00Z",
-          "createdBy": "user-001",
-          "updatedBy": "user-001"
+          "contractEndDate": "2027-07-31"
         },
         {
           "status": "expiring",
           "goodsCode": "IT08",
-          "contractName": "サービスプラン IT08",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1007,
-          "serviceName": "サービス IT08 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-08-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2026-08-31"
         },
         {
           "status": "inactive",
           "goodsCode": "IT09",
-          "contractName": "サービスプラン IT09",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1008,
-          "serviceName": "サービス IT09 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-03-31",
-          "effectiveEndDate": "2026-03-31",
-          "cancellationDate": "2026-02-01",
-          "cancellationProcessedAt": "2026-02-01T00:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2026-02-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-002"
+          "contractEndDate": "2026-03-31"
         }
       ]
     },
@@ -278,23 +150,7 @@
         {
           "status": "expiring",
           "goodsCode": "IT10",
-          "contractName": "サービスプラン IT10",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1009,
-          "serviceName": "サービス IT10 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-08-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2026-08-31"
         }
       ]
     },
@@ -306,23 +162,7 @@
         {
           "status": "active",
           "goodsCode": "IT12",
-          "contractName": "サービスプラン IT12",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1010,
-          "serviceName": "サービス IT12 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2027-03-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": true,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2027-03-31"
         }
       ]
     },
@@ -334,44 +174,12 @@
         {
           "status": "cancel_pending",
           "goodsCode": "IT13",
-          "contractName": "サービスプラン IT13",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1011,
-          "serviceName": "サービス IT13 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-08-31",
-          "effectiveEndDate": null,
-          "cancellationDate": "2026-07-01",
-          "cancellationProcessedAt": "2026-07-01T10:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2026-07-01T10:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-001"
+          "contractEndDate": "2026-08-31"
         },
         {
           "status": "inactive",
           "goodsCode": "IT13",
-          "contractName": "サービスプラン IT13",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1012,
-          "serviceName": "サービス IT13 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2026-03-31",
-          "effectiveEndDate": "2026-03-31",
-          "cancellationDate": "2026-02-01",
-          "cancellationProcessedAt": "2026-02-01T00:00:00Z",
-          "isPaused": false,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2026-02-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "user-002"
+          "contractEndDate": "2026-03-31"
         }
       ]
     },
@@ -383,23 +191,7 @@
         {
           "status": "suspended",
           "goodsCode": "IT17",
-          "contractName": "サービスプラン IT17",
-          "serviceTypeId": 10,
-          "serviceTypeName": "標準機能",
-          "serviceId": 1013,
-          "serviceName": "サービス IT17 標準機能",
-          "firstContractDate": "2025-04-01",
-          "contractEndDate": "2027-03-31",
-          "effectiveEndDate": null,
-          "cancellationDate": null,
-          "cancellationProcessedAt": null,
-          "isPaused": true,
-          "isDeleted": false,
-          "isRenewal": false,
-          "createdAt": "2025-04-01T00:00:00Z",
-          "updatedAt": "2025-04-01T00:00:00Z",
-          "createdBy": "system",
-          "updatedBy": "system"
+          "contractEndDate": "2027-03-31"
         }
       ]
     }
